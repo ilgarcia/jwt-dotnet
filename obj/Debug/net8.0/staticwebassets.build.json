@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oRvyVlaky5mKuJGTnZRaitDsdlGbSvfEm2R4F4BjT1g=",
+  "Source": "jwt-dotnet",
+  "BasePath": "_content/jwt-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
